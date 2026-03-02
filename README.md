@@ -1,6 +1,7 @@
 # Caixão de Areia com Realidade Aumentada
 
-**Projeto Final de Curso **  
+**Projeto Final de Curso**
+
 **Instituição:** Instituto Militar de Engenharia (IME)
 **Solicitante:** AMAN
 
